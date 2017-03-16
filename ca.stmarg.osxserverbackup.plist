@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+        "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>Label</key>
+        <string>ca.stmarg.osxserverbackup</string>
+        <key>Program</key>
+        <string>/Library/stmarg/scripts/backup/osx_server_backup.sh</string>
+        <key>StartCalendarInterval</key>
+        <dict>
+                <key>Minute</key><integer>5</integer>
+                <key>Hour</key><integer>1</integer>
+                <key>Weekday</key><integer>4</integer>
+        </dict>
+	<key>AbandonProcessGroup</key>
+	<true/>
+	<key>StandardOutPath</key>
+	<string>/tmp/osx_server_backup.stout.txt</string>
+	<key>StandardErrorPath</key>
+	<string>/tmp/osx_server_backup.error.txt</string>
+	<key>Debug</key>
+	<true/>
+</dict>
+</plist>
