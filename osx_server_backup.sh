@@ -4,9 +4,9 @@
 ## Author: Chris Swanson
 
 # VARIABLES
-BACKUPSERVER="merlin.stmarg.net"
-BACKUPFOLDER="macexport$"
-DOMAIN="STMARG"
+BACKUPSERVER="**********"
+BACKUPFOLDER="**********"
+DOMAIN="**********"
 ACCOUNT="**********"
 PASSWORD="**********"
 MAILTO="**********"

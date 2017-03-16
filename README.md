@@ -36,11 +36,11 @@ There are only two files in this repo. To manage backup configuration options, e
 
 ```
 # VARIABLES
-BACKUPSERVER="merlin.stmarg.net"
-BACKUPFOLDER="macexport"
-ACCOUNT=sa_mac_export
-PASSWORD=***********
-MAILTO="mtustin@stmarg.ca"
+BACKUPSERVER="**********"
+BACKUPFOLDER="**********"
+ACCOUNT="**********"
+PASSWORD="**********"
+MAILTO="**********"
 ```
 
 To edit the times that the script runs, edit the Launch Daemon plist file:
