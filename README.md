@@ -1,4 +1,8 @@
 # OSX Server Backup Script
+Author: TENsaga - Aspen Swanson 2017
+
+# Description 
+
 This repo consists of our backup solution for OSX Servers in the SMS Environment.
 
 This script creates a tarball of / of an OSX server on a remote file share. Includes a launchd script for automatically running.
