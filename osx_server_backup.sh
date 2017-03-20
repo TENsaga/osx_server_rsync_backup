@@ -1,7 +1,7 @@
 #!/bin/bash
 ## OSX Server Backup Script
 ## Description: This script will backup an OSX server in the SMS environment.
-## Author: Chris Swanson
+## Author: Aspen Swanson
 
 # VARIABLES
 BACKUPSERVER="**********"
